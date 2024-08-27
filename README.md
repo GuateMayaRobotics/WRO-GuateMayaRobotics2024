@@ -19,4 +19,4 @@
   - Cámara. <br/>
   - Sensor de color. <br/>
   ### procedimiento de construcción del carro:
-  - 
+  - Para la construcción de un carro evasor de obstáculos, se inicia con el diseño del chasis, seleccionando un material adecuado para la estructura base y montando las ruedas y motores correspondientes en esta. Los sensores de distancia, fundamentales para la detección de obstáculos, se instalan en la parte frontal del carro y se conectan al microcontrolador, el cual será responsable de gestionar las señales recibidas. A continuación, se realiza el cableado de los motores al controlador y se aseguran todas las conexiones eléctricas. Finalmente, se programa el microcontrolador para que interprete los datos proporcionados por los sensores y ajuste el movimiento del carro para evitar los obstáculos detectados. Se realizan pruebas exhaustivas y ajustes según sea necesario para garantizar el correcto funcionamiento del carro en su entorno operativo.
