@@ -4,7 +4,7 @@
 - César Antonio de León Rincón.<br/>
 - Hillary Jazmín Hernández Letona .<br/>
 ## Institución: Colegio Centro de Aprendizaje Integral en Computación -CAIC- 
-- Tutor: Delmy Escobar.
+- Tutor: Julio César Manuel Solano Silis.
   ### Breve resumen del diseño:
   Equipado con sensores ultrasónicos, un servomotor y una cámara, este carro puede explorar su entorno de manera inteligente y adaptativa. Los sensores ultrasónicos permiten al carro medir distancias y evitar obstáculos, mientras que el servomotor controla la dirección para maniobrar de manera precisa. La cámara, por su parte, proporciona una visión adicional que puede ser utilizada para tareas avanzadas como la detección y reconocimiento de objetos.
   ### Materiales:
