@@ -1,16 +1,15 @@
 # Introducción:
 
-*** Chasis:*** 
+# Chasis: 
 
-** 1. Chasis del Carro Autónomo**
+# 1. Chasis del Carro Autónomo
 
 El chasis de un carro autónomo es la estructura fundamental que sostiene todos los componentes electrónicos y mecánicos necesarios para su funcionamiento. En un diseño típico para un carro autónomo, el chasis puede ser una estructura de plástico, metal o material compuesto que ofrece la resistencia necesaria y al mismo tiempo es lo suficientemente ligero para no sobrecargar los motores. En este caso, el carro está diseñado para operar de manera autónoma utilizando un sistema basado en Arduino, junto con una serie de sensores y actuadores que le permiten percibir su entorno y tomar decisiones.
 
-** Características Clave del Chasis:**
-
--  ** aterial: ** Generalmente hecho de plástico o metal ligero.
--  ** Diseño: ** Debe permitir el montaje de sensores, motores y componentes electrónicos de manera segura.
--  ** Montaje de Ruedas: ** Espacios diseñados para asegurar las ruedas y los motores de tracción.
+# Características Clave del Chasis:
+-  Material: ** Generalmente hecho de plástico o metal ligero.
+-   Diseño: ** Debe permitir el montaje de sensores, motores y componentes electrónicos de manera segura.
+-   Montaje de Ruedas: ** Espacios diseñados para asegurar las ruedas y los motores de tracción.
 -  **Aperturas: ** Espacios para cables y conexiones.
 
 ** 2. Parte Inferior del Chasis**
