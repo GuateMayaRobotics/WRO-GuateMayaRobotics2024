@@ -16,9 +16,12 @@ El chasis de un carro autónomo es la estructura fundamental que sostiene todos 
 
 La parte inferior del chasis es crucial para el montaje de los componentes de tracción y la estabilidad del carro.
 
-- # Motores CC: Montados en la parte inferior para proporcionar movimiento al carro. Los motores de corriente continua (CC) permiten la propulsión y control de la dirección.
-- # Controlador de Motores (Driver L298N): Este componente se encarga de controlar la dirección y la velocidad de los motores CC. Se conecta a los motores y recibe señales del Arduino para ajustar el movimiento.
-- # Ruedas: Están conectadas a los motores CC y permiten que el carro se mueva en diferentes direcciones.
+- # Motores CC:
+  Montados en la parte inferior para proporcionar movimiento al carro. Los motores de corriente continua (CC) permiten la propulsión y control de la dirección.
+- # Controlador de Motores (Driver L298N):
+  Este componente se encarga de controlar la dirección y la velocidad de los motores CC. Se conecta a los motores y recibe señales del Arduino para ajustar el movimiento.
+- # Ruedas:
+  Están conectadas a los motores CC y permiten que el carro se mueva en diferentes direcciones.
 
 # 3. Parte Superior del Chasis
 
