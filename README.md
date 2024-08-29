@@ -1,6 +1,6 @@
 # WRO-GuateMayaRobotics2024
 ## Integrantes del Equipo:
-- Derbyn Fernandeo Cabrera Guzmán. <br/>
+- Derbyn Fernando Cabrera Guzmán. <br/>
 - César Antonio de León Rincón.<br/>
 - Hillary Jazmín Hernández Letona .<br/>
 ## Institución: Colegio Centro de Aprendizaje Integral en Computación -CAIC- 
