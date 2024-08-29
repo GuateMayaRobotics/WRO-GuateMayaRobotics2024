@@ -72,7 +72,7 @@ El movimiento de las ruedas traseras se transmite del actuador (motor de CC) a l
 |Motores de CC|2|
 |Controlador de Motores (L298N o L293D)|1|
 |Protoboard|1|
-|Cables|`      `42|
+|Cables|42|
 |Sensor Ultrasónico (HC-SR04)|2|
 |Sensor de Color (TCS3472)|1|
 |Batería (PKCell de 9V)|2|
