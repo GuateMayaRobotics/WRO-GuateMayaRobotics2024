@@ -7,52 +7,52 @@
 El chasis de un carro autónomo es la estructura fundamental que sostiene todos los componentes electrónicos y mecánicos necesarios para su funcionamiento. En un diseño típico para un carro autónomo, el chasis puede ser una estructura de plástico, metal o material compuesto que ofrece la resistencia necesaria y al mismo tiempo es lo suficientemente ligero para no sobrecargar los motores. En este caso, el carro está diseñado para operar de manera autónoma utilizando un sistema basado en Arduino, junto con una serie de sensores y actuadores que le permiten percibir su entorno y tomar decisiones.
 
 # Características Clave del Chasis:
--  Material: ** Generalmente hecho de plástico o metal ligero.
--   Diseño: ** Debe permitir el montaje de sensores, motores y componentes electrónicos de manera segura.
--   Montaje de Ruedas: ** Espacios diseñados para asegurar las ruedas y los motores de tracción.
--  **Aperturas: ** Espacios para cables y conexiones.
+-  Material: Generalmente hecho de plástico o metal ligero.
+-   Diseño: Debe permitir el montaje de sensores, motores y componentes electrónicos de manera segura.
+-   Montaje de Ruedas: Espacios diseñados para asegurar las ruedas y los motores de tracción.
+-  Aperturas: Espacios para cables y conexiones.
 
-** 2. Parte Inferior del Chasis**
+# 2. Parte Inferior del Chasis
 
 La parte inferior del chasis es crucial para el montaje de los componentes de tracción y la estabilidad del carro.
 
-- ** Motores CC:** Montados en la parte inferior para proporcionar movimiento al carro. Los motores de corriente continua (CC) permiten la propulsión y control de la dirección.
-- ** Controlador de Motores (Driver L298N):** Este componente se encarga de controlar la dirección y la velocidad de los motores CC. Se conecta a los motores y recibe señales del Arduino para ajustar el movimiento.
-- ** Ruedas:** Están conectadas a los motores CC y permiten que el carro se mueva en diferentes direcciones.
+- # Motores CC: Montados en la parte inferior para proporcionar movimiento al carro. Los motores de corriente continua (CC) permiten la propulsión y control de la dirección.
+- # Controlador de Motores (Driver L298N): Este componente se encarga de controlar la dirección y la velocidad de los motores CC. Se conecta a los motores y recibe señales del Arduino para ajustar el movimiento.
+- # Ruedas: Están conectadas a los motores CC y permiten que el carro se mueva en diferentes direcciones.
 
-**3. Parte Superior del Chasis**
+# 3. Parte Superior del Chasis
 
 La parte superior del chasis es donde se colocan los sensores y componentes electrónicos que permiten al carro funcionar de manera autónoma.
 
-- **Sensor Ultrasónico:** Este sensor mide la distancia a los objetos cercanos y ayuda al carro a evitar obstáculos. Está montado en una posición que le permite detectar objetos en el camino del carro.
-- **Sensor de Color:** Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
-- **Cámara:** Se utiliza para capturar imágenes o video del entorno del carro. Puede ser utilizada para el procesamiento de visión por computadora y toma de decisiones basada en imágenes.
-- **Servomotor:** Se usa para ajustar la dirección del carro o el ángulo de los sensores, proporcionando una mayor flexibilidad en el control del movimiento.
-- **Protoboard y Cableado:** La protoboard (o placa de pruebas) permite realizar conexiones temporales y pruebas de circuito. Los cables conectan todos los componentes al Arduino y al controlador de motores.
-- **Arduino:** Actúa como el cerebro del carro, procesando las señales de los sensores y enviando comandos a los motores para controlar el movimiento.
+- # Sensor Ultrasónico: Este sensor mide la distancia a los objetos cercanos y ayuda al carro a evitar obstáculos. Está montado en una posición que le permite detectar objetos en el camino del carro.
+- # Sensor de Color: Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
+- # Cámara: Se utiliza para capturar imágenes o video del entorno del carro. Puede ser utilizada para el procesamiento de visión por computadora y toma de decisiones basada en imágenes.
+- # Servomotor: Se usa para ajustar la dirección del carro o el ángulo de los sensores, proporcionando una mayor flexibilidad en el control del movimiento.
+- # Protoboard y Cableado: La protoboard (o placa de pruebas) permite realizar conexiones temporales y pruebas de circuito. Los cables conectan todos los componentes al Arduino y al controlador de motores.
+- # Arduino: Actúa como el cerebro del carro, procesando las señales de los sensores y enviando comandos a los motores para controlar el movimiento.
 
-**Conclusión**
+# Conclusión
 
 El chasis y la disposición de los componentes en un carro autónomo basado en Arduino son fundamentales para su funcionamiento eficaz. La parte inferior del chasis está diseñada para albergar los motores y el controlador de motores, mientras que la parte superior se destina a los sensores y componentes electrónicos. La combinación de estos elementos permite al carro autónomo navegar y tomar decisiones en su entorno de manera autónoma y precisa.
 
-**Movimiento:**
+# Movimiento:
 
-***Chasis:***
+# *Chasis:*
 
 El Robot cuenta con dos partes de mecanismos independientes, el tren delantero y el tren trasero:
 
-- **Tren delantero:**
+- # Tren delantero:
 
 Se decidió que el carro autónomo tuviera tracción trasera en lugar de delantera. El carro está equipado con un sistema de dirección basado en un servomotor, que permite ajustes precisos en la orientación de las ruedas. Se optó por usar un servomotor estándar en lugar de motores paso a paso debido a su capacidad adecuada para maniobras en el espacio reducido del carrito. Aunque el servomotor seleccionado no cuenta con un torque específico como el MG995, su diseño facilita un control eficiente del movimiento y dirección, gracias a la integración con los motores CC y el controlador de motores L298N. Esta configuración permite una maniobrabilidad adecuada, favorece el seguimiento de la pista circular y la evitación de obstáculos, mientras mantiene la simplicidad en el control y ajuste del carrito.
 
-- Tren trasero:
+- # Tren trasero:
 
   El movimiento de las ruedas traseras se transmite del actuador (motor de CC) a las ruedas mediante un sistema de engranajes de 36 mm de diámetro, colocados en un eje hexagonal. Esta configuración permite una transmisión de movimiento efectiva sin necesidad de componentes adicionales como ejes circulares. Los motores de CC utilizados en el carro tienen un torque adecuado para la tracción, y al funcionar con una batería de 9V, la velocidad nominal de 250 rpm a 12V se reduce a aproximadamente 187 rpm, resultando en una velocidad de aproximadamente 1,37 m/s. Esta elección asegura un equilibrio entre velocidad y control en el movimiento del carro autónomo.
 
 
 
 
-**Componentes:**
+# *Componentes:*
 
 ***Lista de componentes electrónicos:***
 
