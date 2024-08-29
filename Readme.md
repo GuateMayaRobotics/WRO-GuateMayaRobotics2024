@@ -27,12 +27,18 @@ La parte inferior del chasis es crucial para el montaje de los componentes de tr
 
 La parte superior del chasis es donde se colocan los sensores y componentes electrónicos que permiten al carro funcionar de manera autónoma.
 
-- # *Sensor Ultrasónico:* # Este sensor mide la distancia a los objetos cercanos y ayuda al carro a evitar obstáculos. Está montado en una posición que le permite detectar objetos en el camino del carro.
-- # *Sensor de Color:* Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
-- # *Cámara:* Se utiliza para capturar imágenes o video del entorno del carro. Puede ser utilizada para el procesamiento de visión por computadora y toma de decisiones basada en imágenes.
-- # *Servomotor:* Se usa para ajustar la dirección del carro o el ángulo de los sensores, proporcionando una mayor flexibilidad en el control del movimiento.
-- # *Protoboard y Cableado:* La protoboard (o placa de pruebas) permite realizar conexiones temporales y pruebas de circuito. Los cables conectan todos los componentes al Arduino y al controlador de motores.
-- # *Arduino:* Actúa como el cerebro del carro, procesando las señales de los sensores y enviando comandos a los motores para controlar el movimiento.
+- # *Sensor Ultrasónico:*
+Este sensor mide la distancia a los objetos cercanos y ayuda al carro a evitar obstáculos. Está montado en una posición que le permite detectar objetos en el camino del carro.
+- # *Sensor de Color:*
+Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
+- # *Cámara:*
+Se utiliza para capturar imágenes o video del entorno del carro. Puede ser utilizada para el procesamiento de visión por computadora y toma de decisiones basada en imágenes.
+- # *Servomotor:*
+Se usa para ajustar la dirección del carro o el ángulo de los sensores, proporcionando una mayor flexibilidad en el control del movimiento.
+- # *Protoboard y Cableado:*
+La protoboard (o placa de pruebas) permite realizar conexiones temporales y pruebas de circuito. Los cables conectan todos los componentes al Arduino y al controlador de motores.
+- # *Arduino:*
+Actúa como el cerebro del carro, procesando las señales de los sensores y enviando comandos a los motores para controlar el movimiento.
 
 # Conclusión
 
