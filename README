@@ -1,25 +1,25 @@
-**Introducción:**
+** Introducción:**
 
-***Chasis:*** 
+*** Chasis:*** 
 
-**1. Chasis del Carro Autónomo**
+** 1. Chasis del Carro Autónomo**
 
 El chasis de un carro autónomo es la estructura fundamental que sostiene todos los componentes electrónicos y mecánicos necesarios para su funcionamiento. En un diseño típico para un carro autónomo, el chasis puede ser una estructura de plástico, metal o material compuesto que ofrece la resistencia necesaria y al mismo tiempo es lo suficientemente ligero para no sobrecargar los motores. En este caso, el carro está diseñado para operar de manera autónoma utilizando un sistema basado en Arduino, junto con una serie de sensores y actuadores que le permiten percibir su entorno y tomar decisiones.
 
-**Características Clave del Chasis:**
+** Características Clave del Chasis:**
 
-- **Material:** Generalmente hecho de plástico o metal ligero.
-- **Diseño:** Debe permitir el montaje de sensores, motores y componentes electrónicos de manera segura.
-- **Montaje de Ruedas:** Espacios diseñados para asegurar las ruedas y los motores de tracción.
-- **Aperturas:** Espacios para cables y conexiones.
+-  ** aterial: ** Generalmente hecho de plástico o metal ligero.
+-  ** Diseño: ** Debe permitir el montaje de sensores, motores y componentes electrónicos de manera segura.
+-  ** Montaje de Ruedas: ** Espacios diseñados para asegurar las ruedas y los motores de tracción.
+-  **Aperturas: ** Espacios para cables y conexiones.
 
-**2. Parte Inferior del Chasis**
+** 2. Parte Inferior del Chasis**
 
 La parte inferior del chasis es crucial para el montaje de los componentes de tracción y la estabilidad del carro.
 
-- **Motores CC:** Montados en la parte inferior para proporcionar movimiento al carro. Los motores de corriente continua (CC) permiten la propulsión y control de la dirección.
-- **Controlador de Motores (Driver L298N):** Este componente se encarga de controlar la dirección y la velocidad de los motores CC. Se conecta a los motores y recibe señales del Arduino para ajustar el movimiento.
-- **Ruedas:** Están conectadas a los motores CC y permiten que el carro se mueva en diferentes direcciones.
+- ** Motores CC:** Montados en la parte inferior para proporcionar movimiento al carro. Los motores de corriente continua (CC) permiten la propulsión y control de la dirección.
+- ** Controlador de Motores (Driver L298N):** Este componente se encarga de controlar la dirección y la velocidad de los motores CC. Se conecta a los motores y recibe señales del Arduino para ajustar el movimiento.
+- ** Ruedas:** Están conectadas a los motores CC y permiten que el carro se mueva en diferentes direcciones.
 
 **3. Parte Superior del Chasis**
 
