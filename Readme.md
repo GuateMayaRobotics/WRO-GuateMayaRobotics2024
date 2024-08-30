@@ -91,12 +91,6 @@ Al adquirir un kit de robótica obtuvimos una batería de 9V, que usamos para al
 
 Se eligió usar el Arduino Uno para el proyecto debido a su equilibrio entre funcionalidad y simplicidad. El Arduino Uno, con sus 14 pines digitales y 6 pines analógicos, proporciona suficiente capacidad para manejar los sensores y actuadores del carro. Además, su compatibilidad con I2C permite conectar varios componentes sin complicaciones adicionales. Aunque tiene menos pines y recursos que otros modelos como el Arduino Mega, su facilidad de uso y capacidad para manejar el procesamiento necesario hacen del Arduino Uno una opción adecuada para este proyecto.
 
-# Sensor de color:
-
-https://tienda.tettsa.gt/wp-content/uploads/2020/12/MO-TCS3472-A.jpg
-
-Elegimos este sensor porque incluye una fuente de luz integrada y proporciona datos de color en valores RGB y Clear (medición total sin filtrar). Además, cuenta con un filtro de luz infrarroja (IR) que reduce la interferencia y mejora la precisión de las lecturas de color.
-
 # CÓDIGO:                                                                                                                                                                                                                                                                                                                            
 
 # Motor cc:
