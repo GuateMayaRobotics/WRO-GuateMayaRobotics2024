@@ -119,7 +119,7 @@ Hemos optado por el servomotor MG995 debido a su alto par motor en un tamaño co
 
 # Sensor ultrasonico HC-SR04:
 
-![Librería sensor ultrasónico HC-SR04 - MPLAB X - INTESC](Aspose.Words.2ad2f250-2836-4d0f-b14d-29fd808ad11a.004.jpeg)
+[![HC-SR04-0-0-1200x1200.jpg](https://i.postimg.cc/cJL6d6BZ/HC-SR04-0-0-1200x1200.jpg)](https://postimg.cc/FYwhZr6n)
 
 
 
