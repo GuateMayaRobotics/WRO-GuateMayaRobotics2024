@@ -95,7 +95,7 @@ Se eligió usar el Arduino Uno para el proyecto debido a su equilibrio entre fun
 
 # Motor cc:
 
-[![AR2870-AR0110-V1-removebg-preview.png](https://i.postimg.cc/dQGFSdzX/AR2870-AR0110-V1-removebg-preview.png)](https://postimg.cc/nMVNXsVY)
+[![HC-SR04-0-0-1200x1200.jpg](https://i.postimg.cc/cJL6d6BZ/HC-SR04-0-0-1200x1200.jpg)](https://postimg.cc/FYwhZr6n)
 
 |***Tensión nominal***|`       `***12V***|
 | :- | :- |
