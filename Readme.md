@@ -30,7 +30,7 @@ La parte superior del chasis es donde se colocan los sensores y componentes elec
 - # *Sensor Ultrasónico:*
 Este sensor mide la distancia a los objetos cercanos y ayuda al carro a evitar obstáculos. Está montado en una posición que le permite detectar objetos en el camino del carro.
 - # *Sensor de Color:*
-- ![Sensor de color en módulo TCS3472](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftienda.tettsa.gt%2Fproducto%2Fsensor-de-color-en-modulo-tcs34725%2F&psig=AOvVaw2IBHb6tpG_uXhpMez_rfG5&ust=1725124648201000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDYkKOcnYgDFQAAAAAdAAAAABAE)
+  (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftienda.tettsa.gt%2Fproducto%2Fsensor-de-color-en-modulo-tcs34725%2F&psig=AOvVaw2IBHb6tpG_uXhpMez_rfG5&ust=1725124648201000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDYkKOcnYgDFQAAAAAdAAAAABAE)
 Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
 - # *Cámara:*
 Se utiliza para capturar imágenes o video del entorno del carro. Puede ser utilizada para el procesamiento de visión por computadora y toma de decisiones basada en imágenes.
