@@ -98,17 +98,17 @@ Se eligió usar el Arduino Uno para el proyecto debido a su equilibrio entre fun
 
 [![HC-SR04-0-0-1200x1200.jpg](https://i.postimg.cc/cJL6d6BZ/HC-SR04-0-0-1200x1200.jpg)](https://postimg.cc/FYwhZr6n)
 
-|***Tensión nominal***|`       `***12V***|
+|*Tensión nominal*|*12V*|
 | :- | :- |
-|***Potencia nominal***|`       `***8.3***|
-|***Corriente de arranque***|`      `***1.5A***|
-|***Reducción***|`    `***18.8:1***|
-|***Velocidad sin carga:***|`   `***320 rpm***|
-|***Velocidad nominal:***|***    ***224 rpm***|
-|***Corriente sin carga:***|***   ***≥120 mA***|
-|***Corriente nominal:***|***    ***≥400 mA***|
-|***Par máximo:***|`  `***3.1 kg·cm*** |
-|***Par nominal:***|***  ***0.67 kg·cm***|
+|*Potencia nominal*|*8.3*|
+|*Corriente de arranque*|*1.5A*|
+|*Reducción*|*18.8:1*|
+|*Velocidad sin carga:*|*320 rpm*|
+|*Velocidad nominal:*|*224 rpm*|
+|*Corriente sin carga:*|*≥120 mA*|
+|*Corriente nominal:*|*≥400 mA*|
+|*Par máximo:*|*3.1 kg·cm* |
+|*Par nominal:*|*0.67 kg·cm*|
 
 Con el kit adquirido, aprovechamos varias piezas útiles, como los motores, sus bases y las ruedas. Cada motor, diseñado para operar a 12V, tiene una velocidad nominal de 250 rpm y un par de 3.5 kg·cm. Por lo tanto, utilizando un solo motor a 9V, es suficiente para proporcionar la velocidad, el control y el seguimiento necesarios. Además, el encoder incorporado en el motor nos ofrece una mayor precisión en el recorrido que el robot debe realizar en el campo.
 
