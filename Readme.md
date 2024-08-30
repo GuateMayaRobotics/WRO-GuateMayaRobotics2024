@@ -92,7 +92,7 @@ Se eligió usar el Arduino Uno para el proyecto debido a su equilibrio entre fun
 
 # Sensor de color:
 
-![Sensor de color en módulo TCS3472](Aspose.Words.2ad2f250-2836-4d0f-b14d-29fd808ad11a.001.jpeg)
+![Sensor de color en módulo TCS3472](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftienda.tettsa.gt%2Fproducto%2Fsensor-de-color-en-modulo-tcs34725%2F&psig=AOvVaw2IBHb6tpG_uXhpMez_rfG5&ust=1725124648201000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDYkKOcnYgDFQAAAAAdAAAAABAE)
 
 Elegimos este sensor porque incluye una fuente de luz integrada y proporciona datos de color en valores RGB y Clear (medición total sin filtrar). Además, cuenta con un filtro de luz infrarroja (IR) que reduce la interferencia y mejora la precisión de las lecturas de color.
 
