@@ -95,7 +95,7 @@ Se eligió usar el Arduino Uno para el proyecto debido a su equilibrio entre fun
 
 # Motor cc:
 
-![C:\Users\Manhattan\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\7126A2E7.tmp](Aspose.Words.2ad2f250-2836-4d0f-b14d-29fd808ad11a.002.jpeg)
+[![AR2870-AR0110-V1.jpg](https://i.postimg.cc/pXb5bW9c/AR2870-AR0110-V1.jpg)](https://postimg.cc/5jg28MS8)
 
 |***Tensión nominal***|`       `***12V***|
 | :- | :- |
