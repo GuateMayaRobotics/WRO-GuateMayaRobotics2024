@@ -31,7 +31,7 @@ La parte superior del chasis es donde se colocan los sensores y componentes elec
 Este sensor mide la distancia a los objetos cercanos y ayuda al carro a evitar obstáculos. Está montado en una posición que le permite detectar objetos en el camino del carro.
 - # *Sensor de Color:*
   [![imagen-2024-08-30-113657284.png](https://i.postimg.cc/3x2dtgSL/imagen-2024-08-30-113657284.png)](https://postimg.cc/w1TqvsdJ)
-Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
+-Este sensor identifica el color de los objetos y puede usarse para seguir líneas o detectar señales específicas en el entorno.
 - # *Cámara:*
 Se utiliza para capturar imágenes o video del entorno del carro. Puede ser utilizada para el procesamiento de visión por computadora y toma de decisiones basada en imágenes.
 - # *Servomotor:*
