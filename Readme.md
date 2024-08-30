@@ -95,8 +95,6 @@ Se eligió usar el Arduino Uno para el proyecto debido a su equilibrio entre fun
 
 # Motor cc:
 
-[![HC-SR04-0-0-1200x1200.jpg](https://i.postimg.cc/cJL6d6BZ/HC-SR04-0-0-1200x1200.jpg)](https://postimg.cc/FYwhZr6n)
-
 |*Tensión nominal*|*12V*|
 | :- | :- |
 |*Potencia nominal*|*8.3*|
