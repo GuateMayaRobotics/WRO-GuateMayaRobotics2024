@@ -113,7 +113,7 @@ Con el kit adquirido, aprovechamos varias piezas útiles, como los motores, sus 
 
 # SERVO MOTOR SG90:
 
-![Servomotor SG90 RC 9g - UNIT Electronics Arduino Micro Servo](Aspose.Words.2ad2f250-2836-4d0f-b14d-29fd808ad11a.003.jpeg)
+[![descarga.jpg](https://i.postimg.cc/fRY62vGg/descarga.jpg)](https://postimg.cc/xXTxqLTK)
 
 Hemos optado por el servomotor MG995 debido a su alto par motor en un tamaño compacto. Este modelo supera a su predecesor, el SG90, ofreciendo una dirección mucho más precisa con un par de 9 kg·cm a 5V.
 
