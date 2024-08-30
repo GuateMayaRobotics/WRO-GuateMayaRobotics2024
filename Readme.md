@@ -125,7 +125,7 @@ Hemos optado por el servomotor MG995 debido a su alto par motor en un tamaño co
 
 |*Voltaje de trabajo*|*Corriente de trabajo*|*Frecuencia de trabajo*|*Distancia mínima*|*Distancia máxima*|*Ángulo de medición:*|*Pulso Trigger (entrada)*|*Pulso Echo (salida)*|
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|5V DC|15 mA|40 Hz|2 cm|4 m|<p>|15°</p><p></p>|10 μs TTL|100-25000 μs TTL|
+|5V DC|15 mA|40 Hz|2 cm|4 m|<p>15°</p><p></p>|10 μs TTL|100-25000 μs TTL|
 
 
 
